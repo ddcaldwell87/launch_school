@@ -56,7 +56,7 @@ names['margaret'] = 'jody'
 # What is the problem and how can it be fixed?
 
 # The error is because there is a string used as 'margaret' in names['margaret'] = 'jody'. The value inside the [] needs to be
-# an integer, specifacly its index value. names[3] = 'jody' would fix the error.
+# an integer, specifically its index value. names[3] = 'jody' would fix the error.
 
 # 7
 arr = [1, 2, 3, 4, 5]
